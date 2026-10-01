@@ -1,1 +1,2 @@
 
+The size of each data is larger than 25MB, could not upload on GitHub. Check Big Query code for Table schema
